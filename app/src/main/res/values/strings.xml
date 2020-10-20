@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PDF_Uploader</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="new_user_sign_up_here">New user? Sign up here</string>
+    <string name="register">Register</string>
+    <string name="user_registration">User Registration</string>
+    <string name="username">Username</string>
+    <string name="upload">upload</string>
+    <string name="file_name">File name</string>
+</resources>
